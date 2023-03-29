@@ -1,0 +1,47 @@
+C:\Ahmed\Blazor server app\Blazor server app\bin\Debug\net6.0\appsettings.Development.json
+C:\Ahmed\Blazor server app\Blazor server app\bin\Debug\net6.0\appsettings.json
+C:\Ahmed\Blazor server app\Blazor server app\bin\Debug\net6.0\Blazor server app.staticwebassets.runtime.json
+C:\Ahmed\Blazor server app\Blazor server app\bin\Debug\net6.0\Blazor server app.exe
+C:\Ahmed\Blazor server app\Blazor server app\bin\Debug\net6.0\Blazor server app.deps.json
+C:\Ahmed\Blazor server app\Blazor server app\bin\Debug\net6.0\Blazor server app.runtimeconfig.json
+C:\Ahmed\Blazor server app\Blazor server app\bin\Debug\net6.0\Blazor server app.dll
+C:\Ahmed\Blazor server app\Blazor server app\bin\Debug\net6.0\Blazor server app.pdb
+C:\Ahmed\Blazor server app\Blazor server app\obj\Debug\net6.0\Blazor server app.csproj.AssemblyReference.cache
+C:\Ahmed\Blazor server app\Blazor server app\obj\Debug\net6.0\Blazor server app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ahmed\Blazor server app\Blazor server app\obj\Debug\net6.0\Blazor server app.AssemblyInfoInputs.cache
+C:\Ahmed\Blazor server app\Blazor server app\obj\Debug\net6.0\Blazor server app.AssemblyInfo.cs
+C:\Ahmed\Blazor server app\Blazor server app\obj\Debug\net6.0\Blazor server app.csproj.CoreCompileInputs.cache
+C:\Ahmed\Blazor server app\Blazor server app\obj\Debug\net6.0\Blazor server app.MvcApplicationPartsAssemblyInfo.cache
+C:\Ahmed\Blazor server app\Blazor server app\obj\Debug\net6.0\Blazor server app.RazorAssemblyInfo.cache
+C:\Ahmed\Blazor server app\Blazor server app\obj\Debug\net6.0\Blazor server app.RazorAssemblyInfo.cs
+C:\Ahmed\Blazor server app\Blazor server app\obj\Debug\net6.0\staticwebassets\msbuild.Blazor server app.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Ahmed\Blazor server app\Blazor server app\obj\Debug\net6.0\staticwebassets\msbuild.build.Blazor server app.props
+C:\Ahmed\Blazor server app\Blazor server app\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Blazor server app.props
+C:\Ahmed\Blazor server app\Blazor server app\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Blazor server app.props
+C:\Ahmed\Blazor server app\Blazor server app\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Ahmed\Blazor server app\Blazor server app\obj\Debug\net6.0\staticwebassets.build.json
+C:\Ahmed\Blazor server app\Blazor server app\obj\Debug\net6.0\staticwebassets.development.json
+C:\Ahmed\Blazor server app\Blazor server app\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Ahmed\Blazor server app\Blazor server app\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Ahmed\Blazor server app\Blazor server app\obj\Debug\net6.0\scopedcss\bundle\Blazor server app.styles.css
+C:\Ahmed\Blazor server app\Blazor server app\obj\Debug\net6.0\scopedcss\projectbundle\Blazor server app.bundle.scp.css
+C:\Ahmed\Blazor server app\Blazor server app\obj\Debug\net6.0\Blazor server app.dll
+C:\Ahmed\Blazor server app\Blazor server app\obj\Debug\net6.0\refint\Blazor server app.dll
+C:\Ahmed\Blazor server app\Blazor server app\obj\Debug\net6.0\Blazor server app.pdb
+C:\Ahmed\Blazor server app\Blazor server app\obj\Debug\net6.0\Blazor server app.genruntimeconfig.cache
+C:\Ahmed\Blazor server app\Blazor server app\obj\Debug\net6.0\ref\Blazor server app.dll
+C:\Ahmed\Blazor server app\Blazor server app\bin\Debug\net6.0\libman.json
+C:\Ahmed\Blazor server app\Blazor server app\bin\Debug\net6.0\compilerconfig.json
+C:\Ahmed\Blazor server app\Blazor server app\bin\Debug\net6.0\RazorClassLibrary1.staticwebassets.runtime.json
+C:\Ahmed\Blazor server app\Blazor server app\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Ahmed\Blazor server app\Blazor server app\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Ahmed\Blazor server app\Blazor server app\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Ahmed\Blazor server app\Blazor server app\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Ahmed\Blazor server app\Blazor server app\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Ahmed\Blazor server app\Blazor server app\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Ahmed\Blazor server app\Blazor server app\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Ahmed\Blazor server app\Blazor server app\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Ahmed\Blazor server app\Blazor server app\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Ahmed\Blazor server app\Blazor server app\bin\Debug\net6.0\RazorClassLibrary1.dll
+C:\Ahmed\Blazor server app\Blazor server app\bin\Debug\net6.0\RazorClassLibrary1.pdb
+C:\Ahmed\Blazor server app\Blazor server app\obj\Debug\net6.0\Blazor server app.csproj.CopyComplete

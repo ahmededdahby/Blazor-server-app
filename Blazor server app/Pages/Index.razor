@@ -1,0 +1,37 @@
+﻿@page "/"
+@using RazorClassLibrary1
+@inject IJSRuntime js
+<PageTitle>Index</PageTitle>
+
+<h1>Hello, @message</h1>
+@*
+Welcome to your new app.
+
+<SurveyPrompt Title="How is Blazor working for you?" />*@
+
+
+<div class="alert alert-info my-2">
+ Click here to switch themes 
+ <button @onclick="SwapTheme" Primary="true">@SetThemeName Mode</button>
+</div>
+<Component1></Component1>
+<button @onclick="ShowPrompt">Show Prompt</button>
+@code {
+    bool isDark;
+    string SetThemeName => isDark ? "Dark" : "Light";
+    async Task SwapTheme()
+    {
+        isDark = !isDark;
+        await js.InvokeVoidAsync("themeChooser.setTheme", SetThemeName);
+    }
+
+
+
+    string message = "world";
+    async Task ShowPrompt()
+
+    {
+        var inst = new ExampleJsInterop(js);
+        message = await inst.Prompt("Say hello:");
+    }
+}

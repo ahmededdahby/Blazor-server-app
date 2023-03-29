@@ -1,0 +1,39 @@
+﻿@page "/converter"
+
+<h1>Converter</h1>
+<h1>Convert Inch to/from Centimeter</h1>
+<label>Inches</label>
+<input type="number" @bind-value="Inches" @bind-value:event="oninput" />
+<span> = </span>
+<input type="number" @bind-value="centimeters" @bind-value:event="oninput" />
+<label>Centimeters</label>
+
+@code {
+    double inches = 1;  // default value
+    double centimeters = 2.54; // default value
+    //void UpdateValue(ChangeEventArgs e)
+    //{
+    //    double val = 0; // Failing to parse will set to 0
+    //    double.TryParse(e.Value.ToString(), out val);
+    //    inches = val;
+    //}
+    public double Inches
+    {
+        get => inches;
+        set
+        {
+            centimeters = value * 2.54;
+            inches = value;
+        }
+    }
+    public double Centimeters
+    {
+        get => centimeters;
+        set
+        {
+            inches = value / 2.54;
+            centimeters = value;
+        }
+    }
+
+}
