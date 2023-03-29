@@ -6,11 +6,14 @@ html, body {
     background-color: black;
 }
 
-h1 ,p , tr,lable , span{
+h1 ,p , tr,lable , span, label{
     outline: none;
     color:white
 }
 
+.card-title ,.h1, .card-text {
+    color: black;
+}
 
 a, .btn-link {
     color: #0071c1;

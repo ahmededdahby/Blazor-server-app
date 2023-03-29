@@ -1,11 +1,11 @@
 ﻿@page "/List"
 @using Blazor_server_app.Data;
-<h3>List</h3>
+<h1>List</h1>
 <ul class="list-group">
     @foreach (var item in items)
     {
         <li @key="@item.Id" class="list-group-item">
-            <h1>@item.Value</h1>
+            <h1 class="h1">@item.Value</h1>
             <input type="checkbox" />
         </li>
     }
